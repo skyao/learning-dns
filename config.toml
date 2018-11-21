@@ -2,7 +2,7 @@ baseurl = "http://localhost:1313/"
 uglyurls = true
 relativeURLs=false
 languageCode = "zh-cn"
-title = "Knative学习笔记"
+title = "DNS学习笔记"
 theme = "hugo-material-docs"
 metadataformat = "yaml"
 canonifyurls = true
@@ -57,6 +57,12 @@ googleAnalytics = "c7442f5794ea2abb71c6ff05dc0b8779"
 	name   = "前言"
 	url    = "/"
 	weight = 1
+
+[[menu.main]]
+	name   = "基础知识"
+	identifier = "base"
+	url    = "/base/"
+	weight = 100
 
 [[menu.main]]
 	name   = "杂项"

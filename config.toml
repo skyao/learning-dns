@@ -59,10 +59,31 @@ googleAnalytics = "c7442f5794ea2abb71c6ff05dc0b8779"
 	weight = 1
 
 [[menu.main]]
-	name   = "基础知识"
-	identifier = "base"
-	url    = "/base/"
+	name   = "DNS基础知识"
+	identifier = "dns"
+	url    = "/dns/"
 	weight = 100
+
+[[menu.main]]
+	name   = "DNS解析"
+	identifier = "dns-resolve"
+	parent = "dns"
+	url    = "/dns/resolve/"
+	weight = 110
+
+[[menu.main]]
+	name   = "Resource Record"
+	identifier = "dns-record"
+	parent = "dns"
+	url    = "/dns/record/"
+	weight = 120
+
+[[menu.main]]
+	name   = "DNS工具"
+	identifier = "dns-tool"
+	parent = "dns"
+	url    = "/dns/tool/"
+	weight = 130
 
 [[menu.main]]
 	name   = "杂项"

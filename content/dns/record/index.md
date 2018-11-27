@@ -68,6 +68,7 @@ TYPE 字段用于资源记录。注意，这些类型是 QTYPE 的子集。
 | MINFO | 14   | mailbox or mail list information/邮箱或邮件列表信息         |                 |
 | MX    | 15   | mail exchange/邮件交换                                      |                 |
 | TXT   | 16   | text strings/文本字符串                                     |                 |
+| SRV   | 33   | service and protocol/服务和协议                             | 在rfc2052中引入 |
 
 ### QTYPE 值域
 

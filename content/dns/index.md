@@ -32,9 +32,27 @@ DOMAIN NAMES - IMPLEMENTATION AND SPECIFICATION
 - https://www.ietf.org/rfc/rfc1035.txt
 - https://tools.ietf.org/html/rfc1035
 
+#### ~~rfc2052~~
+
+~~A DNS RR for specifying the location of services (DNS SRV)~~ 已废弃，被RFC2782替代
+
+#### rfc2782
+
+A DNS RR for specifying the location of services (DNS SRV)
+
+- https://tools.ietf.org/rfc/rfc2782.txt
+- https://tools.ietf.org/html/rfc2782
+
 #### rfc2929
 
 Domain Name System (DNS) IANA Considerations
+
+- https://tools.ietf.org/rfc/rfc2929.txt
+- https://tools.ietf.org/html/rfc2929
+
+#### rfc6335
+
+Internet Assigned Numbers Authority (IANA) Procedures for the Management of the Service Name and Transport Protocol Port Number Registry
 
 - https://tools.ietf.org/rfc/rfc2929.txt
 - https://tools.ietf.org/html/rfc2929

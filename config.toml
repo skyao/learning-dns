@@ -86,6 +86,12 @@ googleAnalytics = "c7442f5794ea2abb71c6ff05dc0b8779"
 	weight = 130
 
 [[menu.main]]
+	name   = "业界案例"
+	identifier = "case"
+	url    = "/case/"
+	weight = 400
+
+[[menu.main]]
 	name   = "杂项"
 	identifier = "misc"
 	url    = "/misc/"

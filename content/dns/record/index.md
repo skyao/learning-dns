@@ -1,6 +1,7 @@
 ---
 date: 2018-11-21T20:20:00+08:00
 title: DNS 记录
+weight: 120
 description : "DNS 记录"
 ---
 

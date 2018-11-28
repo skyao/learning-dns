@@ -1,6 +1,7 @@
 ---
 date: 2018-11-21T20:20:00+08:00
 title: 基础知识
+weight: 100
 description : "DNS的基础知识"
 ---
 

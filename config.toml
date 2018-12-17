@@ -92,6 +92,19 @@ googleAnalytics = "c7442f5794ea2abb71c6ff05dc0b8779"
 	weight = 400
 
 [[menu.main]]
+	name   = "CoreDNS"
+	identifier = "coredns"
+	url    = "/coredns/"
+	weight = 600
+
+[[menu.main]]
+	name   = "CoreDNS Topic"
+	identifier = "coredns-topic"
+	parent = "coredns"
+	url    = "/coredns/topic/"
+	weight = 660
+
+[[menu.main]]
 	name   = "杂项"
 	identifier = "misc"
 	url    = "/misc/"

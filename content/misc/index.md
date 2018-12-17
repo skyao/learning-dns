@@ -38,3 +38,5 @@ NACOS 就是开源的 VIPSERVER。
 
 
 
+- [Find DNS records programmatically](http://www.golangprograms.com/find-dns-records-programmatically.html)
+

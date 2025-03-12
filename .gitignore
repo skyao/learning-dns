@@ -1,5 +1,10 @@
 .*
 !.gitignore
 public/
+resources/
+node_modules/
+node_modules
 themes/
-update_theme.sh
+init_docsy.sh
+package-lock.json
+.hugo_build.lock
